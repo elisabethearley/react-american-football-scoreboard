@@ -115,10 +115,16 @@
 
 .homeButtons__touchdown,
 .homeButtons__fieldGoal,
-.quarterButton__change,
 .awayButtons__touchdown,
 .awayButtons__fieldGoal {
   margin: 1rem;
   border-radius: 4px;
   background-color: #160020;
+}
+
+.quarterButton__change {
+  margin: 1rem;
+  border-radius: 4px;
+  background-color: #010700;
+  border: 1px solid white;
 }
